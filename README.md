@@ -35,7 +35,7 @@
   <h2>Installation</h2>
     <p>To set up this project, follow these steps:</p>
     <ol>
-        <li>Clone this repository: <code>git clone &lt;repository-url&gt;</code></li>
+        <li>Clone this repository: <code>git clone &lt;https://github.com/Seyone68/Stock-Price-Prediction-App.git&gt;</code></li>
         <li>Install required Python packages: <code>pip install -r requirements.txt</code></li>
     </ol>
 
